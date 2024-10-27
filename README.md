@@ -1,6 +1,5 @@
-I am fyrebolt, aka fyre, (discord: fyre#9236) and i want to code a bot
+Hi! I go out online as fyre, fyrebolt, or hast
 
-i am bilingual and i got a github account bc yes.
-
-have a good day.
-lmao best read me ever
+I am a high school senior and aspiring developer.
+Some of my projects can be found here, and others can be found on others' repositories (check contributions).
+I am an avid hackathon-er, challenge-er, and thinker!
